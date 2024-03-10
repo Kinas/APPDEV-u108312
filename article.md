@@ -66,5 +66,3 @@ As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 - [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) - A free online book that provides a comprehensive introduction
 ---
 *Article content is generated using ChatGPT.*
-
-Lorem ipsum dolor sit amet
