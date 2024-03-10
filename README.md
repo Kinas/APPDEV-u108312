@@ -1,2 +1,3 @@
-# APPDEV-u108312
-Application Development Assignment A
+# Application Development Assignment A
+
+Submitted by u108312
